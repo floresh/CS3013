@@ -1,0 +1,2 @@
+all: smiteTest.c
+	gcc smiteTest.c -o smiteTest

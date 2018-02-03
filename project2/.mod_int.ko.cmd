@@ -1,0 +1,1 @@
+cmd_/home/heric/Documents/cs3013/project2/mod_int.ko := ld -r -m elf_i386 -T /usr/src/linux-source-3.13.0/linux-source-3.13.0/scripts/module-common.lds --build-id  -o /home/heric/Documents/cs3013/project2/mod_int.ko /home/heric/Documents/cs3013/project2/mod_int.o /home/heric/Documents/cs3013/project2/mod_int.mod.o

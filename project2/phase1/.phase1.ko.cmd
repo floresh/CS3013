@@ -1,0 +1,1 @@
+cmd_/home/heric/Documents/cs3013/project2/phase1/phase1.ko := ld -r -m elf_i386 -T /usr/src/linux-source-3.13.0/linux-source-3.13.0/scripts/module-common.lds --build-id  -o /home/heric/Documents/cs3013/project2/phase1/phase1.ko /home/heric/Documents/cs3013/project2/phase1/phase1.o /home/heric/Documents/cs3013/project2/phase1/phase1.mod.o

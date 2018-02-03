@@ -1,0 +1,17 @@
+Phase 1:
+	In an intersection where whoever arrives first proceeds first, the intersection can be modeled as a single queue that accepts cars (which hold an individual value for which direction they arrived from and which direction they are going), and processes each car in the queue one at a time.That car would lock the mutexes for the quadrants it will enter, and proceed. If the second car in the queue is able to proceed when the first car is, both cars can go at the same time, with the second car also locking the mutexes for the quadrants it needs. Otherwise, the next car must wait for the first car before it can proceed. This is suboptimal, as it means that cars that may arrive third and fourth (i.e a car is coming from each direction) that could have gone at the same time as the first car cannot go, as they must wait for the second car to go through the intersection (even though the second car must wait for the first car in this case).
+
+Phase 2:
+	If four cars all arrive from different directions at the same time, and are all going straight, each of the four cars would block each other, and no car would be able to proceed. Likewise, if there is a car at each intersection and all cars turn left at the same time, this would also produce a deadlock. These types of deadlocks can be solved by forcing cars to form an order, and check which cars would be able to go at the same time in the most efficient way possible (in the case of the first deadlock, if the North and South cars were forced to wait while the East/West cars went, they could then proceed after those cars had gone, avoiding a deadlock).
+
+========================
+		Our Code
+========================
+All directions of cars are represented by a queue, in which the first car in queue will be the first car out. The only exception is motorcade/emergency cars, which take priority and are put in the front of the queue.
+The program first checks if a priority vehicle or motorcade car needs to go, putting it in the approach position and not allowing other cars. Otherwise, it then checks for a deadlock situation (i.e 4 cars, all going either left or straight). If there is no deadlock, it fills all approach spaces so that the cars will go on the next turn. If there is a deadlock, it randomly selects a lane to wait, and fills the approach spaces for the other lanes.
+After filling the approach spaces and messaging the approaching cars, the program wakes up the threads, which then check if their car has approached the intersection. If it has, they run the drive function, moving their car throughout the intersection in correspondence with the other cars.
+Once finished driving in the intersection, they are put in a waiting variable and sleep for 10-15 seconds. Once they have finished sleeping, they tell the program that they are ready to requeue. The loop function looks for these ready cars and requeues them, cleaning up old variables as they go.
+
+The program ensures that no cars are in the same quadrant of the intersection at the same time by locking it with a mutex before they move to the quadrant, and unlocking the previous one only after they have moved.
+The FCFS queue ensures that cars do not pass each other, unless they are a priority vehicle (motorcade, emergency vehicle).
+Traffic from any direction is not starved as a car from each direction goes each turn unless it could cause a deadlock, and the lane that waits is randomized each time, so 3/4 cars will still go.

@@ -1,0 +1,534 @@
+Thread 0 created.
+Thread 1 created.
+Thread 2 created.
+Thread 3 created.
+Thread 4 created.
+Thread 5 created.
+Thread 6 created.
+Thread 7 created.
+Thread 8 created.
+Thread 9 created.
+Thread 10 created.
+Thread 11 created.
+Thread 12 created.
+Thread 13 created.
+Thread 14 created.
+Thread 15 created.
+Thread 16 created.
+Thread 17 created.
+Thread 18 created.
+Thread 19 created.
+Job 14 has entered cluster half 1 in classified [Top Secret] mode.
+Job 15 has entered cluster half 2 in classified [Top Secret] mode.
+Job 14 has left cluster half 1.
+Job 15 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 9 has entered cluster half 2 in classified [Secret] mode.
+Job 8 has left cluster half 1.
+Job 9 has left cluster half 2.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 10 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 1 has entered cluster half 2 in unclassified mode.
+Job 0 has left cluster half 1.
+Job 1 has left cluster half 2.
+
+Job 12 has entered cluster half 1 in classified [Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 12 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 3 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 3 has left cluster half 2.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 19 has entered cluster half 2 in classified [Top Secret] mode.
+Job 13 has left cluster half 1.
+Job 19 has left cluster half 2.
+
+Job 4 has entered cluster half 1 in unclassified mode.
+Job 5 has entered cluster half 2 in unclassified mode.
+Job 4 has left cluster half 1.
+Job 5 has left cluster half 2.
+
+Job 6 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 6 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 14 has entered cluster half 1 in classified [Top Secret] mode.
+Job 14 has left cluster half 1.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 15 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 16 has entered cluster half 2 in classified [Top Secret] mode.
+Job 8 has left cluster half 1.
+Job 16 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 0 has left cluster half 1.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 12 has entered cluster half 2 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+Job 12 has left cluster half 2.
+
+Job 11 has entered cluster half 1 in classified [Secret] mode.
+Job 11 has left cluster half 1.
+
+Job 3 has entered cluster half 1 in unclassified mode.
+Job 3 has left cluster half 1.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 10 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 2 has entered cluster half 2 in unclassified mode.
+Job 1 has left cluster half 1.
+Job 2 has left cluster half 2.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 19 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 4 has entered cluster half 1 in unclassified mode.
+Job 5 has entered cluster half 2 in unclassified mode.
+Job 4 has left cluster half 1.
+Job 5 has left cluster half 2.
+
+Job 6 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 6 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 17 has entered cluster half 1 in classified [Top Secret] mode.
+Job 16 has entered cluster half 2 in classified [Top Secret] mode.
+Job 17 has left cluster half 1.
+Job 16 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 0 has left cluster half 1.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 8 has entered cluster half 2 in classified [Secret] mode.
+Job 13 has left cluster half 1.
+Job 8 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 12 has entered cluster half 2 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+Job 12 has left cluster half 2.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 3 has entered cluster half 2 in unclassified mode.
+Job 1 has left cluster half 1.
+Job 3 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 15 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 4 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 4 has left cluster half 2.
+
+Job 11 has entered cluster half 1 in classified [Secret] mode.
+Job 19 has entered cluster half 2 in classified [Top Secret] mode.
+Job 11 has left cluster half 1.
+Job 19 has left cluster half 2.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 10 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 5 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 5 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 6 has entered cluster half 1 in unclassified mode.
+Job 0 has entered cluster half 2 in unclassified mode.
+Job 6 has left cluster half 1.
+Job 0 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 8 has entered cluster half 2 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+Job 8 has left cluster half 2.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 13 has left cluster half 1.
+
+Job 12 has entered cluster half 1 in classified [Secret] mode.
+Job 12 has left cluster half 1.
+
+Job 3 has entered cluster half 1 in unclassified mode.
+Job 3 has left cluster half 1.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 4 has entered cluster half 2 in unclassified mode.
+Job 1 has left cluster half 1.
+Job 4 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 15 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 5 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 5 has left cluster half 2.
+
+Job 18 has entered cluster half 1 in classified [Top Secret] mode.
+Job 19 has entered cluster half 2 in classified [Top Secret] mode.
+Job 18 has left cluster half 1.
+Job 19 has left cluster half 2.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 10 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 13 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 6 has entered cluster half 2 in unclassified mode.
+Job 0 has left cluster half 1.
+Job 6 has left cluster half 2.
+
+Job 7 has entered cluster half 1 in unclassified mode.
+Job 3 has entered cluster half 2 in unclassified mode.
+Job 7 has left cluster half 1.
+Job 3 has left cluster half 2.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 1 has left cluster half 1.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 8 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 12 has entered cluster half 2 in classified [Secret] mode.
+Job 15 has left cluster half 1.
+Job 12 has left cluster half 2.
+
+Job 4 has entered cluster half 1 in unclassified mode.
+Job 4 has left cluster half 1.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 10 has entered cluster half 2 in classified [Secret] mode.
+Job 19 has left cluster half 1.
+Job 10 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 5 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 5 has left cluster half 2.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 13 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 9 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 6 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 6 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 8 has left cluster half 1.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 3 has entered cluster half 2 in unclassified mode.
+Job 0 has left cluster half 1.
+Job 3 has left cluster half 2.
+
+Job 12 has entered cluster half 1 in classified [Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 12 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 15 has left cluster half 1.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 4 has entered cluster half 2 in unclassified mode.
+Job 1 has left cluster half 1.
+Job 4 has left cluster half 2.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 19 has left cluster half 1.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 10 has left cluster half 1.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 13 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+
+Job 17 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has left cluster half 1.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 5 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 5 has left cluster half 2.
+
+Job 6 has entered cluster half 1 in unclassified mode.
+Job 6 has left cluster half 1.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 0 has left cluster half 1.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 9 has entered cluster half 2 in classified [Secret] mode.
+Job 8 has left cluster half 1.
+Job 9 has left cluster half 2.
+
+Job 18 has entered cluster half 1 in classified [Top Secret] mode.
+Job 18 has left cluster half 1.
+
+Job 3 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 3 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 11 has entered cluster half 1 in classified [Secret] mode.
+Job 12 has entered cluster half 2 in classified [Secret] mode.
+Job 11 has left cluster half 1.
+Job 12 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 15 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 16 has entered cluster half 2 in classified [Top Secret] mode.
+Job 19 has left cluster half 1.
+Job 16 has left cluster half 2.
+
+Job 4 has entered cluster half 1 in unclassified mode.
+Job 1 has entered cluster half 2 in unclassified mode.
+Job 4 has left cluster half 1.
+Job 1 has left cluster half 2.
+
+Job 10 has entered cluster half 1 in classified [Secret] mode.
+Job 13 has entered cluster half 2 in classified [Secret] mode.
+Job 10 has left cluster half 1.
+Job 13 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 17 has entered cluster half 2 in classified [Top Secret] mode.
+Job 9 has left cluster half 1.
+Job 17 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 2 has entered cluster half 2 in unclassified mode.
+Job 0 has left cluster half 1.
+Job 2 has left cluster half 2.
+
+Job 5 has entered cluster half 1 in unclassified mode.
+Job 6 has entered cluster half 2 in unclassified mode.
+Job 5 has left cluster half 1.
+Job 6 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 8 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 12 has entered cluster half 1 in classified [Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 12 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 11 has entered cluster half 1 in classified [Secret] mode.
+Job 15 has entered cluster half 2 in classified [Top Secret] mode.
+Job 11 has left cluster half 1.
+Job 15 has left cluster half 2.
+
+Job 16 has entered cluster half 1 in classified [Top Secret] mode.
+Job 19 has entered cluster half 2 in classified [Top Secret] mode.
+Job 16 has left cluster half 1.
+Job 19 has left cluster half 2.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 13 has left cluster half 1.
+
+Job 3 has entered cluster half 1 in unclassified mode.
+Job 7 has entered cluster half 2 in unclassified mode.
+Job 3 has left cluster half 1.
+Job 7 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 10 has entered cluster half 2 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+Job 10 has left cluster half 2.
+
+Job 1 has entered cluster half 1 in unclassified mode.
+Job 4 has entered cluster half 2 in unclassified mode.
+Job 1 has left cluster half 1.
+Job 4 has left cluster half 2.
+
+Job 17 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has left cluster half 1.
+
+Job 2 has entered cluster half 1 in unclassified mode.
+Job 0 has entered cluster half 2 in unclassified mode.
+Job 2 has left cluster half 1.
+Job 0 has left cluster half 2.
+
+Job 14 has entered cluster half 1 in classified [Top Secret] mode.
+Job 12 has entered cluster half 2 in classified [Secret] mode.
+Job 14 has left cluster half 1.
+Job 12 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 18 has entered cluster half 2 in classified [Top Secret] mode.
+Job 8 has left cluster half 1.
+Job 18 has left cluster half 2.
+
+Job 5 has entered cluster half 1 in unclassified mode.
+Job 6 has entered cluster half 2 in unclassified mode.
+Job 5 has left cluster half 1.
+Job 6 has left cluster half 2.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 15 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 10 has entered cluster half 2 in classified [Secret] mode.
+Job 19 has left cluster half 1.
+Job 10 has left cluster half 2.
+
+Job 13 has entered cluster half 1 in classified [Secret] mode.
+Job 16 has entered cluster half 2 in classified [Top Secret] mode.
+Job 13 has left cluster half 1.
+Job 16 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+
+Job 7 has entered cluster half 1 in unclassified mode.
+Job 3 has entered cluster half 2 in unclassified mode.
+Job 7 has left cluster half 1.
+Job 3 has left cluster half 2.
+
+Job 17 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has left cluster half 1.
+
+Job 4 has entered cluster half 1 in unclassified mode.
+Job 1 has entered cluster half 2 in unclassified mode.
+Job 4 has left cluster half 1.
+Job 1 has left cluster half 2.
+
+Job 12 has entered cluster half 1 in classified [Secret] mode.
+Job 14 has entered cluster half 2 in classified [Top Secret] mode.
+Job 12 has left cluster half 1.
+Job 14 has left cluster half 2.
+
+Job 8 has entered cluster half 1 in classified [Secret] mode.
+Job 8 has left cluster half 1.
+
+Job 15 has entered cluster half 1 in classified [Top Secret] mode.
+Job 11 has entered cluster half 2 in classified [Secret] mode.
+Job 15 has left cluster half 1.
+Job 11 has left cluster half 2.
+
+Job 0 has entered cluster half 1 in unclassified mode.
+Job 2 has entered cluster half 2 in unclassified mode.
+Job 0 has left cluster half 1.
+Job 2 has left cluster half 2.
+
+Job 18 has entered cluster half 1 in classified [Top Secret] mode.
+Job 10 has entered cluster half 2 in classified [Secret] mode.
+Job 18 has left cluster half 1.
+Job 10 has left cluster half 2.
+
+Job 5 has entered cluster half 1 in unclassified mode.
+Job 6 has entered cluster half 2 in unclassified mode.
+Job 5 has left cluster half 1.
+Job 6 has left cluster half 2.
+
+Job 9 has entered cluster half 1 in classified [Secret] mode.
+Job 13 has entered cluster half 2 in classified [Secret] mode.
+Job 9 has left cluster half 1.
+Job 13 has left cluster half 2.
+
+Job 19 has entered cluster half 1 in classified [Top Secret] mode.
+Job 16 has entered cluster half 2 in classified [Top Secret] mode.
+Job 19 has left cluster half 1.
+Job 16 has left cluster half 2.
+
+Job 17 has entered cluster half 1 in classified [Top Secret] mode.
+Job 17 has left cluster half 1.
+
+Job 7 has entered cluster half 1 in unclassified mode.
+Job 4 has entered cluster half 2 in unclassified mode.
+Job 7 has left cluster half 1.
+Job 4 has left cluster half 2.
+
+Job 14 has entered cluster half 1 in classified [Top Secret] mode.
+Job 14 has left cluster half 1.
+
+Job 3 has entered cluster half 1 in unclassified mode.
+Job 1 has entered cluster half 2 in unclassified mode.
+Job 3 has left cluster half 1.
+Job 1 has left cluster half 2.
+

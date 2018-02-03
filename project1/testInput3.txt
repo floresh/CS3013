@@ -1,0 +1,10 @@
+cat Makefile
+ls /home
+ls -l
+cd /home
+sleep 1s &
+jobs
+pwd
+sleep 1s
+jobs
+cd ..

@@ -1,0 +1,101 @@
+all: runCommand shell shell2
+	make clean
+
+clean:
+	rm *.o
+
+runCommand.o: phase1.c
+	gcc -c phase1.c -o runCommand.o
+
+runCommand: runCommand.o
+	gcc runCommand.o -o runCommand
+
+shell.o: phase2.c
+	gcc -c phase2.c -o shell.o
+
+shell: shell.o
+	gcc shell.o -o shell
+
+shell2.o: phase3.c
+	gcc -c phase3.c -o shell2.o
+
+shell2: shell2.o
+	gcc shell2.o -o shell2
+heric
+total 96
+-rw-rw-r-- 1 heric heric   348 Jan 26 17:30 Makefile
+-rw-rw-r-- 1 heric heric  2091 Jan 27 12:59 phase1.c
+-rw-rw-r-- 1 heric heric  4067 Jan 27 12:59 phase2.c
+-rw-rw-r-- 1 heric heric  8304 Jan 27 12:59 phase3.c
+-rw-rw-r-- 1 heric heric  3740 Jan 27 13:46 README.txt
+-rwxrwxr-x 1 heric heric  7592 Jan 27 14:39 runCommand
+-rwxrwxr-x 1 heric heric  7815 Jan 27 14:39 shell
+-rwxrwxr-x 1 heric heric 12213 Jan 27 14:39 shell2
+-rw-rw-r-- 1 heric heric     6 Jan 27 12:40 testInput1-a.txt
+-rw-rw-r-- 1 heric heric     4 Jan 27 12:40 testInput1-b.txt
+-rw-rw-r-- 1 heric heric    13 Jan 27 12:40 testInput1-c.txt
+-rw-rw-r-- 1 heric heric    55 Jan 27 12:40 testInput2.txt
+-rw-rw-r-- 1 heric heric    76 Jan 27 12:40 testInput3.txt
+-rw-rw-r-- 1 heric heric  1231 Jan 27 14:41 testOutput1-a.txt
+-rw-rw-r-- 1 heric heric   230 Jan 27 14:41 testOutput1-b.txt
+-rw-rw-r-- 1 heric heric   540 Jan 27 14:42 testOutput1-c.txt
+-rw-rw-r-- 1 heric heric  2477 Jan 27 14:44 testOutput2.txt
+-rw-rw-r-- 1 heric heric   354 Jan 27 14:44 testOutput3.txt
+/home
+==>
+Stats from cat
+Elapsed Time: 1.358000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 196
+#of Satisfied Page Faults: 196
+==>
+Stats from ls
+Elapsed Time: 1.781000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 266
+#of Satisfied Page Faults: 266
+==>
+Stats from ls
+Elapsed Time: 2.811000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 391
+#of Satisfied Page Faults: 391
+==>==>==>[1] 3263 sleep
+==>
+Stats from pwd
+Elapsed Time: 1.797000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 195
+#of Satisfied Page Faults: 195
+==>
+Stats from sleep
+Elapsed Time: 1003.438000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 3
+#of Voluntary Interrupts: 2
+#of Page Faults: 197
+#of Satisfied Page Faults: 197
+
+Job 3263 [sleep] has finished.
+
+Elapsed Time: 1003.438000
+User CPU Time(ms): 1701145715000.112061
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 2
+#of Page Faults: 0
+#of Satisfied Page Faults: 198
+==>==>

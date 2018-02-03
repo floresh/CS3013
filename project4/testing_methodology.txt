@@ -1,0 +1,9 @@
+Testing Methodology
+
+For our single threaded test, we use the memoryMaxer function that was provided by the project specifications. We used this function as our main test as it creates as many addresses as it can, and ensures that our eviction algorithms work correctly. This function ensures that pages are moved across the system correctly.
+
+Our memoryMaxer function was run again, but modified to try and create one more page than is possible in the system. Our program denies the final attempt and instead returns an error, not creating the page that would overflow the system.
+
+Another modified version of our memoryMaxer was used for our next test: the program was modified so that address pages were never unlocked after creation, so that RAM would fill up but never be able to evict something (since all pages are locked). Our program prints an error message and prevents the handler from evicting locked pages- in the case of our test, the RAM fills up, but no other addresses are created as there is no way to evict any of the locked addresses in RAM. The program terminates normally in this condition.
+
+Our threaded tests use the functions from the single threaded tests, but are run across different threads.

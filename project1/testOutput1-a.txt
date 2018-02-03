@@ -1,0 +1,27 @@
+total 92
+-rw-rw-r-- 1 heric heric   348 Jan 26 17:30 Makefile
+-rw-rw-r-- 1 heric heric  2091 Jan 27 12:59 phase1.c
+-rw-rw-r-- 1 heric heric  4067 Jan 27 12:59 phase2.c
+-rw-rw-r-- 1 heric heric  8304 Jan 27 12:59 phase3.c
+-rw-rw-r-- 1 heric heric  3740 Jan 27 13:46 README.txt
+-rwxrwxr-x 1 heric heric  7592 Jan 27 14:39 runCommand
+-rwxrwxr-x 1 heric heric  7815 Jan 27 14:39 shell
+-rwxrwxr-x 1 heric heric 12213 Jan 27 14:39 shell2
+-rw-rw-r-- 1 heric heric     6 Jan 27 12:40 testInput1-a.txt
+-rw-rw-r-- 1 heric heric     4 Jan 27 12:40 testInput1-b.txt
+-rw-rw-r-- 1 heric heric    13 Jan 27 12:40 testInput1-c.txt
+-rw-rw-r-- 1 heric heric    55 Jan 27 12:40 testInput2.txt
+-rw-rw-r-- 1 heric heric    76 Jan 27 12:40 testInput3.txt
+-rw-rw-r-- 1 heric heric     0 Jan 27 14:41 testOutput1-a.txt
+-rw-rw-r-- 1 heric heric   191 Jan 27 12:40 testOutput1-b.txt
+-rw-rw-r-- 1 heric heric   191 Jan 27 12:40 testOutput1-c.txt
+-rw-rw-r-- 1 heric heric  1902 Jan 27 12:40 testOutput2.txt
+-rw-rw-r-- 1 heric heric  2144 Jan 27 12:40 testOutput3.txt
+
+Elapsed Time: 3.854000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 2
+#of Page Faults: 385
+#of Satisfied Page Faults: 384

@@ -1,0 +1,135 @@
+A priority car [#19] is approaching from the East, and turning 2
+Car 19 is entering the intersection from direction 2 and turning 2.
+Car 19 [Entered EAST, turned direction 2] has left the intersection.
+A priority car [#18] is approaching from the East, and turning 2
+Car 18 is entering the intersection from direction 2 and turning 2.
+Car 18 [Entered EAST, turned direction 2] has left the intersection.
+A priority car [#17] is approaching from the East, and turning 2
+Car 17 is entering the intersection from direction 2 and turning 2.
+Car 17 [Entered EAST, turned direction 2] has left the intersection.
+A priority car [#16] is approaching from the East, and turning 2
+Car 16 is entering the intersection from direction 2 and turning 2.
+Car 16 [Entered EAST, turned direction 2] has left the intersection.
+A priority car [#15] is approaching from the East, and turning 2
+Car 15 is entering the intersection from direction 2 and turning 2.
+Car 15 [Entered EAST, turned direction 2] has left the intersection.
+A car [#11] is approaching from the North, and turning 0
+A car [#10] is approaching from the South, and turning 0
+A car [#12] is approaching from the East, and turning 0
+A car [#14] is approaching from the West, and turning 2
+Car 10 is entering the intersection from direction 1 and turning 0.
+Car 10 [Entered SOUTH, turned direction 0] has left the intersection.
+Car 11 is entering the intersection from direction 0 and turning 0.
+Car 11 [Entered NORTH, turned direction 0] has left the intersection.
+Car 12 is entering the intersection from direction 2 and turning 0.
+Car 12 [Entered EAST, turned direction 0] has left the intersection.
+Car 14 is entering the intersection from direction 3 and turning 2.
+Car 14 [Entered WEST, turned direction 2] has left the intersection.
+A car [#8] is approaching from the South, and turning 0
+A car [#5] is approaching from the East, and turning 1
+A car [#13] is approaching from the West, and turning 0
+Car 8 is entering the intersection from direction 1 and turning 0.
+Car 8 [Entered SOUTH, turned direction 0] has left the intersection.
+Car 13 is entering the intersection from direction 3 and turning 0.
+Car 13 [Entered WEST, turned direction 0] has left the intersection.
+Car 5 is entering the intersection from direction 2 and turning 1.
+Car 5 [Entered EAST, turned direction 1] has left the intersection.
+A car [#7] is approaching from the South, and turning 1
+A car [#4] is approaching from the East, and turning 0
+A car [#9] is approaching from the West, and turning 2
+Car 7 is entering the intersection from direction 1 and turning 1.
+Car 7 [Entered SOUTH, turned direction 1] has left the intersection.
+Car 9 is entering the intersection from direction 3 and turning 2.
+Car 9 [Entered WEST, turned direction 2] has left the intersection.
+Car 4 is entering the intersection from direction 2 and turning 0.
+Car 4 [Entered EAST, turned direction 0] has left the intersection.
+A car [#6] is approaching from the South, and turning 1
+A car [#0] is approaching from the East, and turning 0
+A car [#1] is approaching from the West, and turning 2
+Car 6 is entering the intersection from direction 1 and turning 1.
+Car 6 [Entered SOUTH, turned direction 1] has left the intersection.
+Car 1 is entering the intersection from direction 3 and turning 2.
+Car 1 [Entered WEST, turned direction 2] has left the intersection.
+Car 0 is entering the intersection from direction 2 and turning 0.
+Car 0 [Entered EAST, turned direction 0] has left the intersection.
+A car [#3] is approaching from the South, and turning 2
+Car 3 is entering the intersection from direction 1 and turning 2.
+Car 3 [Entered SOUTH, turned direction 2] has left the intersection.
+A car [#2] is approaching from the South, and turning 0
+Car 2 is entering the intersection from direction 1 and turning 0.
+Car 2 [Entered SOUTH, turned direction 0] has left the intersection.
+A priority car [#17] is approaching from the East, and turning 1
+Car 17 is entering the intersection from direction 2 and turning 1.
+Car 17 [Entered EAST, turned direction 1] has left the intersection.
+A priority car [#19] is approaching from the West, and turning 1
+Car 19 is entering the intersection from direction 3 and turning 1.
+Car 19 [Entered WEST, turned direction 1] has left the intersection.
+A priority car [#18] is approaching from the North, and turning 1
+Car 18 is entering the intersection from direction 0 and turning 1.
+Car 18 [Entered NORTH, turned direction 1] has left the intersection.
+A priority car [#16] is approaching from the West, and turning 1
+Car 16 is entering the intersection from direction 3 and turning 1.
+Car 16 [Entered WEST, turned direction 1] has left the intersection.
+A car [#5] is approaching from the South, and turning 0
+A car [#10] is approaching from the East, and turning 1
+A car [#13] is approaching from the West, and turning 0
+Car 10 is entering the intersection from direction 2 and turning 1.
+Car 10 [Entered EAST, turned direction 1] has left the intersection.
+Car 13 is entering the intersection from direction 3 and turning 0.
+Car 13 [Entered WEST, turned direction 0] has left the intersection.
+Car 5 is entering the intersection from direction 1 and turning 0.
+Car 5 [Entered SOUTH, turned direction 0] has left the intersection.
+A priority car [#15] is approaching from the South, and turning 2
+Car 15 is entering the intersection from direction 1 and turning 2.
+Car 15 [Entered SOUTH, turned direction 2] has left the intersection.
+A car [#11] is approaching from the North, and turning 0
+A car [#9] is approaching from the South, and turning 0
+A car [#7] is approaching from the East, and turning 2
+A car [#12] is approaching from the West, and turning 2
+Car 12 is entering the intersection from direction 3 and turning 2.
+Car 12 [Entered WEST, turned direction 2] has left the intersection.
+Car 7 is entering the intersection from direction 2 and turning 2.
+Car 7 [Entered EAST, turned direction 2] has left the intersection.
+Car 9 is entering the intersection from direction 1 and turning 0.
+Car 9 [Entered SOUTH, turned direction 0] has left the intersection.
+Car 11 is entering the intersection from direction 0 and turning 0.
+Car 11 [Entered NORTH, turned direction 0] has left the intersection.
+A car [#6] is approaching from the North, and turning 1
+A car [#0] is approaching from the South, and turning 0
+A car [#14] is approaching from the West, and turning 0
+Car 14 is entering the intersection from direction 3 and turning 0.
+Car 14 [Entered WEST, turned direction 0] has left the intersection.
+Car 0 is entering the intersection from direction 1 and turning 0.
+Car 0 [Entered SOUTH, turned direction 0] has left the intersection.
+Car 6 is entering the intersection from direction 0 and turning 1.
+Car 6 [Entered NORTH, turned direction 1] has left the intersection.
+A car [#4] is approaching from the North, and turning 2
+A car [#2] is approaching from the South, and turning 1
+A car [#3] is approaching from the East, and turning 2
+Car 4 is entering the intersection from direction 0 and turning 2.
+Car 4 [Entered NORTH, turned direction 2] has left the intersection.
+Car 3 is entering the intersection from direction 2 and turning 2.
+Car 3 [Entered EAST, turned direction 2] has left the intersection.
+Car 2 is entering the intersection from direction 1 and turning 1.
+Car 2 [Entered SOUTH, turned direction 1] has left the intersection.
+A car [#8] is approaching from the North, and turning 2
+Car 8 is entering the intersection from direction 0 and turning 2.
+Car 8 [Entered NORTH, turned direction 2] has left the intersection.
+A car [#1] is approaching from the North, and turning 1
+Car 1 is entering the intersection from direction 0 and turning 1.
+Car 1 [Entered NORTH, turned direction 1] has left the intersection.
+A priority car [#19] is approaching from the North, and turning 1
+Car 19 is entering the intersection from direction 0 and turning 1.
+Car 19 [Entered NORTH, turned direction 1] has left the intersection.
+A priority car [#17] is approaching from the North, and turning 1
+Car 17 is entering the intersection from direction 0 and turning 1.
+Car 17 [Entered NORTH, turned direction 1] has left the intersection.
+A priority car [#18] is approaching from the North, and turning 2
+Car 18 is entering the intersection from direction 0 and turning 2.
+Car 18 [Entered NORTH, turned direction 2] has left the intersection.
+A priority car [#16] is approaching from the North, and turning 2
+Car 16 is entering the intersection from direction 0 and turning 2.
+Car 16 [Entered NORTH, turned direction 2] has left the intersection.
+A car [#13] is approaching from the East, and turning 0
+Car 13 is entering the intersection from direction 2 and turning 0.
+Car 13 [Entered EAST, turned direction 0] has left the intersection.

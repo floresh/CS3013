@@ -1,0 +1,9 @@
+/home/heric/Documents/cs3013/project1
+
+Elapsed Time: 2.467000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 3
+#of Page Faults: 188
+#of Satisfied Page Faults: 187

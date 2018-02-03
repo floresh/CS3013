@@ -1,0 +1,91 @@
+all: runCommand shell shell2
+	make clean
+
+clean:
+	rm *.o
+
+runCommand.o: phase1.c
+	gcc -c phase1.c -o runCommand.o
+
+runCommand: runCommand.o
+	gcc runCommand.o -o runCommand
+
+shell.o: phase2.c
+	gcc -c phase2.c -o shell.o
+
+shell: shell.o
+	gcc shell.o -o shell
+
+shell2.o: phase3.c
+	gcc -c phase3.c -o shell2.o
+
+shell2: shell2.o
+	gcc shell2.o -o shell2
+heric
+total 96
+-rw-rw-r-- 1 heric heric   348 Jan 26 17:30 Makefile
+-rw-rw-r-- 1 heric heric  2091 Jan 27 12:59 phase1.c
+-rw-rw-r-- 1 heric heric  4067 Jan 27 12:59 phase2.c
+-rw-rw-r-- 1 heric heric  8304 Jan 27 12:59 phase3.c
+-rw-rw-r-- 1 heric heric  3740 Jan 27 13:46 README.txt
+-rwxrwxr-x 1 heric heric  7592 Jan 27 14:39 runCommand
+-rwxrwxr-x 1 heric heric  7815 Jan 27 14:39 shell
+-rwxrwxr-x 1 heric heric 12213 Jan 27 14:39 shell2
+-rw-rw-r-- 1 heric heric     6 Jan 27 12:40 testInput1-a.txt
+-rw-rw-r-- 1 heric heric     4 Jan 27 12:40 testInput1-b.txt
+-rw-rw-r-- 1 heric heric    13 Jan 27 12:40 testInput1-c.txt
+-rw-rw-r-- 1 heric heric    55 Jan 27 12:40 testInput2.txt
+-rw-rw-r-- 1 heric heric    76 Jan 27 12:40 testInput3.txt
+-rw-rw-r-- 1 heric heric  1231 Jan 27 14:41 testOutput1-a.txt
+-rw-rw-r-- 1 heric heric   230 Jan 27 14:41 testOutput1-b.txt
+-rw-rw-r-- 1 heric heric   540 Jan 27 14:42 testOutput1-c.txt
+-rw-rw-r-- 1 heric heric   354 Jan 27 14:44 testOutput2.txt
+-rw-rw-r-- 1 heric heric  2144 Jan 27 12:40 testOutput3.txt
+/home
+==>
+Stats from cat
+Elapsed Time: 1.442000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 190
+#of Satisfied Page Faults: 190
+==>
+Stats from ls
+Elapsed Time: 1.615000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 260
+#of Satisfied Page Faults: 260
+==>
+Stats from ls
+Elapsed Time: 2.394000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 386
+#of Satisfied Page Faults: 386
+==>Directory is /home
+==>
+Stats from sleep
+Elapsed Time: 1002.327000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 2
+#of Page Faults: 193
+#of Satisfied Page Faults: 193
+==>
+Stats from pwd
+Elapsed Time: 2.731000
+User CPU Time(ms): 0.000000
+System CPU Time(ms): 0.000000
+#of Involuntary Interrupts: 1
+#of Voluntary Interrupts: 1
+#of Page Faults: 189
+#of Satisfied Page Faults: 189
+==>
